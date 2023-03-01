@@ -1,0 +1,7 @@
+I am File 4. My content is 44444444
+in a peer-to-peer network, computers on the network
+are equal,with each workstation providing access to
+resources and data. This is a simple type of network
+where computers are able to communicate with one
+another and share what is on or attached to their
+computer with other users

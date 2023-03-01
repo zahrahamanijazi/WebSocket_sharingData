@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileSharingSystem": {
+      "commandName": "Project",
+      "commandLineArgs": "8001 A 1.txt"
+    }
+  }
+}
